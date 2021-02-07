@@ -1,20 +1,14 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest an idea for MIDI Mixer
 title: ''
 labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe and link using # if you can.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Do not use GitHub for feature requests
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Feature requests are collated, reviewed, and tracked in the roadmap: https://roadmap.midi-mixer.com.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Submit a feature request under the "[Submit a feature request here!](https://trello.com/c/WHkUNnmg/2-submit-a-feature-request-here)" card in the left-most column.
